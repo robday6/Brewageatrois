@@ -1,0 +1,11 @@
+[linweb12] [2016/07/20 16:19:36] [cdhopbgw] [               NOTICE ] -----------------------------------------------------------------------
+[linweb12] [2016/07/20 16:19:36] [cdhopbgw] [               NOTICE ] This scan has been initiated by an automated process to search for
+[linweb12] [2016/07/20 16:19:36] [cdhopbgw] [               NOTICE ] files and installations that may be compromised
+[linweb12] [2016/07/20 16:19:36] [cdhopbgw] [               NOTICE ] No changes are made to your site during this scan.
+[linweb12] [2016/07/20 16:19:36] [cdhopbgw] [               NOTICE ] Version 2.2.1 [Built 15-01-2015]
+[linweb12] [2016/07/20 16:19:36] [cdhopbgw] [               NOTICE ] Signatures file last updated 'Wed Jul 13 10:14:17 2016'
+[linweb12] [2016/07/20 16:19:36] [cdhopbgw] [               NOTICE ] -----------------------------------------------------------------------
+[linweb12] [2016/07/20 16:19:36] [cdhopbgw] [                 INFO ] Checking /home/linweb12/r/rob-day.co.uk/user/htdocs/
+[linweb12] [2016/07/20 16:19:37] [cdhopbgw] [              SUMMARY ] [/home/linweb12/r/rob-day.co.uk/user/htdocs/] [41 files found] [21 files scanned]
+[linweb12] [2016/07/20 16:19:37] [cdhopbgw] [              SUMMARY ] [/home/linweb12/r/rob-day.co.uk/user/htdocs/] [Path appears clean]
+[linweb12] [2016/07/20 16:19:37] [cdhopbgw] [              SUMMARY ] [/home/linweb12/r/rob-day.co.uk/user/htdocs/] [Scan completed in 1 second]
